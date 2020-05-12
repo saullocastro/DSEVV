@@ -17,4 +17,3 @@ License
 Distrubuted in the 2-Clause BSD license (https://raw.github.com/saullocastro/DSEVV/master/LICENSE).
 
 Contact: S.G.P.Castro@tudelft.nl
-
