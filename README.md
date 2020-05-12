@@ -1,7 +1,7 @@
 
 Travis-CI status:
 
-[![Build Status](https://travis-ci.org/saullocastro/DSEVV.svg?branch=master)](https://travis-ci.org/saullocastro/DSEVV)
+[![Build Status](https://travis-ci.com/saullocastro/DSEVV.svg?token=42zpXqXADpxR3nr2TD7y&branch=master)](https://travis-ci.com/saullocastro/DSEVV)
 
 Github Actions status:
 
