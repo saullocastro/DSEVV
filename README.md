@@ -9,7 +9,7 @@ Github Actions status:
 
 Coverage status:
 
-[![Coverage Status](https://coveralls.io/repos/github/saullocastro/DSEVV/badge.svg?branch=master)](https://coveralls.io/github/saullocastro/DSEVV?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/saullocastro/DSEVV/badge.png?branch=master)](https://coveralls.io/github/saullocastro/DSEVV?branch=master)
 
 
 License
